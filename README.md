@@ -96,10 +96,12 @@
 
 <p>
     <a href="https://github.com/sureshjungade/Headphone-Zone-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshjungade&repo=Headphone-Zone-Clone&locale=en&border_radius=0&theme=dark" alt="sureshjungade" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshjungade&repo=
+HeadphoneZone-clone&locale=en&border_radius=0&theme=dark" alt="sureshjungade" />
     </a>
     <a href="https://github.com/sureshjungade/Netmeds-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshjungade&repo=Netmeds-Clone&locale=en&border_radius=0&theme=dark" alt="sureshjungade" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g-utsav
+&repo=NetMedsClone&locale=en&border_radius=0&theme=dark" alt="g-utsav" />
     </a>
    
 </p>
