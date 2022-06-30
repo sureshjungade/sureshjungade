@@ -95,7 +95,7 @@
 
 
 <p>
-    <a href="https://github.com/sureshjungade/Headphone-Zone-Clone">
+    <a href="https://github.com/sureshjungade/HeadphoneZone-clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshjungade&repo=
 HeadphoneZone-clone&locale=en&border_radius=0&theme=dark" alt="sureshjungade" />
     </a>
