@@ -99,9 +99,8 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshjungade&repo=
 HeadphoneZone-clone&locale=en&border_radius=0&theme=dark" alt="sureshjungade" />
     </a>
-    <a href="https://github.com/sureshjungade/Netmeds-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g-utsav
-&repo=NetMedsClone&locale=en&border_radius=0&theme=dark" alt="g-utsav" />
+    <a href="https://github.com/g-utsav/Netmeds-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g-utsav&repo=NetMedsClone&locale=en&border_radius=0&theme=dark" alt="g-utsav" />
     </a>
    
 </p>
