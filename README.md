@@ -10,7 +10,23 @@
 <h3 align="center">
    <i> Aspiring Java Banckend Developer</i>
 </h3
-  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshjungade&label=Profile%20views&color=0e75b6&style=flat" alt="sureshjungade" /> </p>
+
+- 🔭 I’m currently working on [Online cab booking App](https://github.com/chiragjain56/CabBookingSystem)
+
+- 🌱 I’m currently learning **SQL**
+
+- 👯 I’m looking to collaborate on [HeadphoneZone.com](https://github.com/Aryan-2-2/Headphone-Zone-Clone)
+
+- 👨‍💻 All of my projects are available at [https://gleaming-empanada-25ed53.netlify.app/](https://gleaming-empanada-25ed53.netlify.app/)
+
+- 💬 Ask me about **SpringBoot, Hibernate, MySql, Java, AWS**
+
+- 📫 How to reach me **sjungade55@gmai.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/13oPr6R8BQychYhhSjxvqh87S5LY2KG14/view?usp=sharing](https://drive.google.com/file/d/13oPr6R8BQychYhhSjxvqh87S5LY2KG14/view?usp=sharing)
+</p>
 
 <br>
   
