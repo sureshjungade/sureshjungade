@@ -25,10 +25,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13oPr6R8BQychYhhSjxvqh87S5LY2KG14/view?usp=sharing](https://drive.google.com/file/d/13oPr6R8BQychYhhSjxvqh87S5LY2KG14/view?usp=sharing)
 </p>
-
 <br>
 <!----------------------------------- Tech Stack Section ------------------------------------>
-
 ### <h2><i>👨🏻‍💻 Tech Stack & Languages</i></h2>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
