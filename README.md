@@ -13,8 +13,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshjungade&label=Profile%20views&color=0e75b6&style=flat" alt="sureshjungade" /> </p>
 
-- 🔭 I’m currently working on [Online cab booking App](https://github.com/chiragjain56/CabBookingSystem)
-
 - 🌱 I’m currently learning **SQL**
 
 - 👯 I’m looking to collaborate on [HeadphoneZone.com](https://github.com/Aryan-2-2/Headphone-Zone-Clone)
