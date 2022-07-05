@@ -27,9 +27,7 @@
 </p>
 
 <br>
-  
 <!----------------------------------- Tech Stack Section ------------------------------------>
-
 
 ### <h2><i>👨🏻‍💻 Tech Stack & Languages</i></h2>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
