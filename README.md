@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshjungade&label=Profile%20views&color=0e75b6&style=flat" alt="sureshjungade" /> </p>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on [HeadphoneZone.com](https://github.com/Aryan-2-2/Headphone-Zone-Clone)
 
@@ -107,13 +107,13 @@
 
 
 <p>
-    <a href="https://github.com/Aryan-2-2/Headphone-Zone-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-2-2&repo=Headphone-Zone-Clone&locale=en&border_radius=0&theme=dark" alt="sureshjungade" />
-    </a>
+   
     <a href="https://github.com/g-utsav/NetMedsClone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g-utsav&repo=NetMedsClone&locale=en&border_radius=0&theme=dark" alt="g-utsav" />
     </a>
-   
+    <a href="https://github.com/Aryan-2-2/Headphone-Zone-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-2-2&repo=Headphone-Zone-Clone&locale=en&border_radius=0&theme=dark" alt="sureshjungade" />
+    </a>
 </p>
 
 
