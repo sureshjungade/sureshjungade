@@ -117,7 +117,9 @@
 </p>
 
 
-
+<br/>
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sureshjungade&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=sureshjungade&show_icons=true&theme=radical)
 
 
 
