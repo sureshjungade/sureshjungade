@@ -111,15 +111,13 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-2-2&repo=Headphone-Zone-Clone&locale=en&border_radius=0&theme=dark" alt="sureshjungade" />
     </a>
     <a href="https://github.com/g-utsav/NetMedsClone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g-utsav&repo=NetMedsClone&locale=en&border_radius=0&theme=dark" alt="g-utsav" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g-utsav&repo=NetMedsClone&locale=en&border_radius=0&theme=dark" alt="sureshjungade" />
     </a>
    
 </p>
 
 
-<br/>
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sureshjungade&show_icons=true&theme=radical)
-![github stats](https://github-readme-stats.vercel.app/api?username=sureshjungade&show_icons=true&theme=radical)
+
 
 
 
