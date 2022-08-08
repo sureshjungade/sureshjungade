@@ -73,6 +73,7 @@
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aryanjaiswal5928@gmail.com" />
     </a>
 </p>
+
 <br>
 
  
@@ -113,7 +114,9 @@
     <a href="https://github.com/g-utsav/NetMedsClone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g-utsav&repo=NetMedsClone&locale=en&border_radius=0&theme=dark" alt="sureshjungade" />
     </a>
-   
+   <a href="https://github.com/m-sehrawat/Nike-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    </a>
 </p>
 
 
