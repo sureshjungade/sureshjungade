@@ -17,13 +17,13 @@
 
 - 👯 I’m looking to collaborate on [HeadphoneZone.com](https://github.com/Aryan-2-2/Headphone-Zone-Clone)
 
-- 👨‍💻 All of my projects are available at [https://gleaming-empanada-25ed53.netlify.app/](https://gleaming-empanada-25ed53.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sureshjungadeportfolio.netlify.app/](https://sureshjungadeportfolio.netlify.app/)
 
 - 💬 Ask me about **SpringBoot, Hibernate, MySql, Java, AWS**
 
 - 📫 How to reach me **sjungade55@gmai.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13oPr6R8BQychYhhSjxvqh87S5LY2KG14/view?usp=sharing](https://drive.google.com/file/d/13oPr6R8BQychYhhSjxvqh87S5LY2KG14/view?usp=sharing)
+- 📄 Know about my experiences [http://surl.li/cqric](http://surl.li/cqric)
 </p>
 
 <br>
@@ -66,8 +66,8 @@
     <a href="https://twitter.com/ganeshjungade">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ganeshjungade" />
     </a>
-    <a href="https://gleaming-empanada-25ed53.netlify.app/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://gleaming-empanada-25ed53.netlify.app/" />
+    <a href="https://sureshjungadeportfolio.netlify.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://sureshjungadeportfolio.netlify.app/" />
     </a>
     <a title="sjungade@gmai.com" href="mailto:sjungade@gmai.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aryanjaiswal5928@gmail.com" />
