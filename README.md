@@ -11,20 +11,7 @@
    <i> Aspiring Java Banckend Developer</i>
 </h3
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshjungade&label=Profile%20views&color=0e75b6&style=flat" alt="sureshjungade" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
-
-- 👯 I’m looking to collaborate on [HeadphoneZone.com](https://github.com/Aryan-2-2/Headphone-Zone-Clone)
-
-- 👨‍💻 All of my projects are available at [https://sureshjungadeportfolio.netlify.app/](https://sureshjungadeportfolio.netlify.app/)
-
-- 💬 Ask me about **SpringBoot, Hibernate, MySql, Java, AWS**
-
-- 📫 How to reach me **sjungade55@gmai.com**
-
-- 📄 Know about my experiences [http://surl.li/cqric](http://surl.li/cqric)
-</p>
 
 <br>
 <!----------------------------------- Tech Stack Section ------------------------------------>
