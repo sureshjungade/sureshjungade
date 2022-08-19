@@ -95,14 +95,20 @@
 
 
 <p>
-
+<a href="https://github.com/chandan0531/Payment-wallet-Application">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan0531&repo=Payment-wallet-Application&locale=en&border_radius=0&theme=dark" alt="sureshjungade"/>
+         </a>
+    
+        <a href="https://github.com/sureshjungade/YouTube-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshjungade&repo=YouTube-Clone&locale=en&border_radius=0&theme=dark"  alt="sureshjungade"/>
+         </a>
          
     <a href="https://github.com/Aryan-2-2/Headphone-Zone-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-2-2&repo=Headphone-Zone-Clone&locale=en&border_radius=0&theme=dark" alt="sureshjungade" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-2-2&repo=Headphone-Zone-Clone&locale=en&border_radius=0&theme=dark"  alt="sureshjungade" />
     </a>
     
     <a href="https://github.com/Aryan-2-2/Netmeds-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-2-2&repo=Netmeds-Clone&locale=en&border_radius=0&theme=dark" alt="sureshjungade" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-2-2&repo=Netmeds-Clone&locale=en&border_radius=0&theme=dark"  alt="sureshjungade" />
     </a>
    
   
