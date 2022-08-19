@@ -52,8 +52,8 @@
     <a href="https://twitter.com/ganeshjungade">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ganeshjungade" />
     </a>
-    <a href="https://sureshjungadeportfolio.netlify.app/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://sureshjungadeportfolio.netlify.app/" />
+    <a href="https://suresh-portfolio.netlify.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://suresh-portfolio.netlify.app/" />
     </a>
     <a title="sjungade@gmai.com" href="mailto:sjungade@gmai.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aryanjaiswal5928@gmail.com" />
