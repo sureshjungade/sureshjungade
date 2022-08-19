@@ -32,7 +32,6 @@
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&color=00d09c&label=" alt="" /></a>
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=000030&label=" alt=""/></a>
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=400030&label=" alt=""/></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&color=700030&label=" alt=""/></a>
 
 
 ### <h2><i>💻 Databases</i></h2>
