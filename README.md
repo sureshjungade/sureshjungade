@@ -9,6 +9,7 @@
 
 <h3 align="center">
    <i> Java Backend Developer</i>
+    Backend Java Developer | SpringBoot expertise | Efficient APIs & full lifecycle contributor | Full Stack learner | Thrives in remote collaboration | Seeks impactful projects
 </h3
 
 
