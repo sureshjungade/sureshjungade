@@ -48,7 +48,7 @@
  
 
 ### <h2><i>🏆 Certificates</i></h2>
-- [![HackerRank SQL Certificate](https://img.shields.io/badge/HackerRank-SQL-47A248?style=for-the-badge&logo=hackerrank)]([https://www.hackerrank.com/certificates/542b1dcc516c](https://www.hackerrank.com/certificates/eaebd53d548a))
+- [![HackerRank SQL Certificate](https://img.shields.io/badge/HackerRank-SQL-47A248?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/eaebd53d548a)
 
 
 ## Profile Views
