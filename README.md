@@ -22,9 +22,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
 <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
 
 ### <h2><i>🚀 Libraries & Frameworks</i></h2>
@@ -32,14 +35,23 @@
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&color=00d09c&label=" alt="" /></a>
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=000030&label=" alt=""/></a>
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=400030&label=" alt=""/></a>
-
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/)
+ [![Mockito](https://img.shields.io/badge/Mockito-EBAC54?style=for-the-badge&logo=mockito&logoColor=white)](https://site.mockito.org/)
+ [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
+[![Logstash](https://img.shields.io/badge/Logstash-FFA500?style=for-the-badge&logo=logstash&logoColor=black)](https://www.elastic.co/logstash/)
+[![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)](https://www.elastic.co/kibana/)
 
 ### <h2><i>💻 Databases</i></h2>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+ 
 
- 
- 
- 
+### <h2><i>🏆 Certificates</i></h2>
+- [![HackerRank SQL Certificate](https://img.shields.io/badge/HackerRank-SQL-47A248?style=for-the-badge&logo=hackerrank)]([https://www.hackerrank.com/certificates/542b1dcc516c](https://www.hackerrank.com/certificates/iframe/eaebd53d548a))
+
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=sureshjungade&color=blueviolet&style=flat&label=Profile+Views&v=1200)
+
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
@@ -62,83 +74,28 @@
 
 <br>
 
- 
- 
+
  
 
 <!----------------------------------- Star Section ------------------------------------>
 
  <h2><i>My GitHub Stats</i></h2>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sureshjungade&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="sureshjungade" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshjungade&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="sureshjungade" height="139"/>
-</p>
-<br>
+<div style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshjungade&layout=compact&theme=dark&langs_count=6&hide=html,css" alt="Language Usage" style="width: 48%; display: inline-block; margin-right: 2%;" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sureshjungade&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" style="width: 48%; display: inline-block;" />
+</div>
   
  <!--------------------------------------------------------------------------------> 
   
- ## :trophy: Recent GitHub Activity
-  <br/>
-   <a href="https://github.com/sathish-dhana"><img alt="sathish-dhana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sureshjungade&custom_title=sureshjungade's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+ ## Contributions
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sureshjungade&theme=dark)
+
+## Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sureshjungade&theme=darkhub)
 
 
 <br/>
-
-
-
-<!----------------------------------- Top Repository Section ------------------------------------>
-
-<h2><i>Top Repositories</i></h2>
-
-
-<p>
-    <a href="https://github.com/chandan0531/Payment-wallet-Application">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan0531&repo=Payment-wallet-Application&locale=en&border_radius=0&theme=dark" alt="sureshjungade"/>
-         </a>
-    <a href="https://github.com/sureshjungade/YouTube-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshjungade&repo=YouTube-Clone&locale=en&border_radius=0&theme=dark"  alt="sureshjungade"/>
-         </a>
-     <a href="https://github.com/Aryan-2-2/Netmeds-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-2-2&repo=Netmeds-Clone&locale=en&border_radius=0&theme=dark"  alt="sureshjungade" />
-    </a>
-     <a href="https://github.com/Aryan-2-2/Headphone-Zone-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-2-2&repo=Headphone-Zone-Clone&locale=en&border_radius=0&theme=dark"  alt="sureshjungade" />
-    </a>
-    
-   
-    
-
-    
-   
-    
-    
-    
-        
-         
-   
-   
   
 </p>
-
-
-
-
-
-
-
-<!--
-*sureshjungade/sureshjungade* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
